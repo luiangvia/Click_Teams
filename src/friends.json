@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Barcelona",
+    "image": "https://1000logos.net/wp-content/uploads/2016/10/Barcelona-Logo.png"
+  },
+  {
+    "id": 2,
+    "name": "Real Madrid",
+    "image": "https://1000logos.net/wp-content/uploads/2017/06/Real-Madrid-Logo.png"
+  },
+  {
+    "id": 3,
+    "name": "Manchester United",
+    "image": "https://1000logos.net/wp-content/uploads/2017/03/Manchester-United-Logo.png"
+  },
+  {
+    "id": 4,
+    "name": "Juventus",
+    "image": "https://1000logos.net/wp-content/uploads/2017/03/Juventus-Logo.png"
+  },
+  {
+    "id": 5,
+    "name": "Chelsea",
+    "image": "https://1000logos.net/wp-content/uploads/2016/11/Chelsea-Logo.png"
+  },
+  {
+    "id": 6,
+    "name": "Atletico Madrid",
+    "image": "https://1000logos.net/wp-content/uploads/2018/04/Atletico-Madrid-Logo.png"
+  },
+  {
+    "id": 7,
+    "name": "Manchester City",
+    "image": "https://1000logos.net/wp-content/uploads/2017/05/Manchester-City-Logo.png"
+  },
+  {
+    "id": 8,
+    "name": "BAYERN MÜNCHEN",
+    "image": "https://1000logos.net/wp-content/uploads/2018/04/Bayern-M%C3%BCnchen-Logo-768x432.png"
+  },
+  {
+    "id": 9,
+    "name": "Borussia Dortmund",
+    "image": "https://1000logos.net/wp-content/uploads/2017/08/BVB-Logo.png"
+  },
+  {
+    "id": 10,
+    "name": "AC Milan",
+    "image": "https://1000logos.net/wp-content/uploads/2016/10/AC-Milan-Logo.png"
+  },
+  {
+    "id": 11,
+    "name": "PSG",
+    "image": "https://1000logos.net/wp-content/uploads/2018/04/PSG-Logo-768x432.png"
+  },
+  {
+    "id": 12,
+    "name": "Liver Pool",
+    "image": "https://1000logos.net/wp-content/uploads/2017/04/Liverpool-Logo.png"
+  }
+]
